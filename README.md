@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/anmo1ll" target="blank"><img src="https://img.shields.io/twitter/follow/anmo1ll?logo=twitter&style=for-the-badge" alt="anmo1ll" /></a> </p>
 
-- 🌱 I’m currently learning **Angular, NextJS**
+- 🌱 I’m currently learning **Angular 19, NextJS, Java, SpringBoot**
 
-- 💬 Ask me about **MongoDB, Expressjs, React, Angular, NodeJS, Prisma, postgreSQL, SQL Server, SQL**
+- 💬 Ask me about **Java, JavaScript, Angular, ReactJS, ExpressJS, NodeJS, MongoDB, SQL, Prisma, postgreSQL**
 
 - 📫 How to reach me **anmolll.thakurrr@gmail.com**
 
