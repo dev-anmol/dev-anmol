@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/anmo1ll" target="blank"><img src="https://img.shields.io/twitter/follow/anmo1ll?logo=twitter&style=for-the-badge" alt="anmo1ll" /></a> </p>
 
-- 🌱 I’m currently learning **Angular 19, NextJS, Java, SpringBoot**
+- 🌱 I’m currently learning **Angular 19, NextJS, Java and SpringBoot**
 
 - 💬 Ask me about **Java, JavaScript, Angular, ReactJS, ExpressJS, NodeJS, MongoDB, SQL, Prisma, postgreSQL**
 
