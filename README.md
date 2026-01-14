@@ -10,7 +10,7 @@
 - 💼 &nbsp; I work as a Fullstack Software Engineer.
 - 🌱 &nbsp; Enthusiast in Angular and Web Technologies in general.
 - ⚡ &nbsp; I have a passion for sleek user-friendly design and I love writing nicely architectured, clean and maintainable code.
-- 📫 &nbsp; How to reach me: [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/nikosanif.svg?style=social&label=Follow%20Anmol)](https://x.com/anmo1ll) or [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=social&style=flat&logo=linkedin&labelColor=blue&label=Connect%20Anmol%20Thakur)](https://www.linkedin.com/in/anmo1lll/)
+- 📫 &nbsp; How to reach me: [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/nikosanif.svg?style=social&label=Follow%20Anmol)](https://x.com/anmo1ll) or [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=social&style=flat&logo=linkedin&labelColor=blue&label=Connect%20Anmol%20Thakur)](https://www.linkedin.com/in/anmo1ll/)
 - 🎙 &nbsp; Pronouns: He/Him
 
 ## 🛠 Tech Stack
@@ -69,6 +69,6 @@
 ## 📫 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/anmo1ll/)
-- [X](https://x.com/nikosanif)
+- [X](https://x.com/anmo1ll)
 
 _"Code is like humor. When you have to explain it, it’s bad."_ 😄
