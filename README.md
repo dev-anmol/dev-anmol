@@ -1,23 +1,74 @@
-<h1 align="center">Hi 👋, I'm Anmol Thakur</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+# Hey there! I'm Anmol. 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-anmol&label=Profile%20views&color=0e75b6&style=flat" alt="dev-anmol" /> </p>
+🚀 **Passionate Full-Stack Developer** | 🌍 **Open Source Enthusiast**
 
-<p align="left"> <a href="https://twitter.com/anmo1ll" target="blank"><img src="https://img.shields.io/twitter/follow/anmo1ll?logo=twitter&style=for-the-badge" alt="anmo1ll" /></a> </p>
+## 👨🏻‍💻 About Me
 
-- 🌱 I’m currently learning **Angular 21, NestJS
+- 🔭 &nbsp; I’m currently working on Angular, React & Node.js Application Development.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🎓 &nbsp; I have studied Computer Science and Computer Programming.
+- 💼 &nbsp; I work as a Fullstack Software Engineer.
+- 🌱 &nbsp; Enthusiast in Angular and Web Technologies in general.
+- ⚡ &nbsp; I have a passion for sleek user-friendly design and I love writing nicely architectured, clean and maintainable code.
+- 📫 &nbsp; How to reach me: [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/nikosanif.svg?style=social&label=Follow%20nikosanif)](https://x.com/anmo1ll) or [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=social&style=flat&logo=linkedin&labelColor=blue&label=Connect%20Nikos%20Anifantis)](https://www.linkedin.com/in/anmo1lll/)
+- 🎙 &nbsp; Pronouns: He/Him
 
-- 💬 Ask me about **Java, JavaScript, Angular, ReactJS, ExpressJS, NodeJS, Bun, MongoDB, SQL, Prisma, PostgreSQL**
+## 🛠 Tech Stack
 
-- 📫 How to reach me **anmolll.thakurrr@gmail.com**
+- 🌐 &nbsp; **Frontend** <br />
+  ![Angular](https://img.shields.io/badge/-Angular-grey?style=for-the-badge&logo=angular&logoColor=white&labelColor=8E2DE2)
+  ![NgRx](https://img.shields.io/badge/-NgRx-grey?style=for-the-badge&logo=ngrx&logoColor=white&labelColor=8E2DE2)
+  ![Nuxt.js](https://img.shields.io/badge/-Nuxt-grey?style=for-the-badge&logo=nuxt&logoColor=white&labelColor=8E2DE2)
+  ![React](https://img.shields.io/badge/-React-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=8E2DE2)
+  <br />
+  ![Material Design](https://img.shields.io/badge/-Material%20Design-grey?style=for-the-badge&logo=material-design&logoColor=white&labelColor=8E2DE2)
+  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-grey?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=8E2DE2)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-grey?style=for-the-badge&logo=Bootstrap&logoColor=white&labelColor=8E2DE2)
+  ![Sass](https://img.shields.io/badge/sass-grey?style=for-the-badge&logo=sass&logoColor=white&labelColor=8E2DE2)
+  <br />
+  ![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-grey?style=for-the-badge&logo=socket.io&logoColor=white&labelColor=8E2DE2)
+  ![Web Sockets](https://img.shields.io/badge/-Web%20Sockets-grey?style=for-the-badge&logo=socket.io&logoColor=white&labelColor=8E2DE2)
+  ![GraphQL](https://img.shields.io/badge/-GraphQL-grey?style=for-the-badge&logo=graphql&logoColor=white&labelColor=8E2DE2)
+  ![tRPC](https://img.shields.io/badge/-tRPC-grey?style=for-the-badge&logo=trpc&logoColor=white&labelColor=8E2DE2)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/anmo1ll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anmo1ll" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anmol-thakur-4875191b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anmol-thakur-4875191b7" height="30" width="40" /></a>
-<a href="https://instagram.com/a.nmolll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a.nmolll" height="30" width="40" /></a>
-</p>
+- 💻 &nbsp; **Backend** <br />
+  ![Typescript](https://img.shields.io/badge/-Typescript-grey?style=for-the-badge&logo=typescript&logoColor=white&labelColor=8E2DE2)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)
+  ![Node.js](https://img.shields.io/badge/-Node.js-grey?style=for-the-badge&logo=node.js&logoColor=white&labelColor=8E2DE2)
+  <br />
+  ![NestJS](https://img.shields.io/badge/-NestJS-grey?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=8E2DE2)
+  ![Express](https://img.shields.io/badge/-Express-grey?style=for-the-badge&logo=express&logoColor=white&labelColor=8E2DE2)
+  ![TypeORM](https://img.shields.io/badge/-TypeORM-grey?style=for-the-badge&logo=typeorm&logoColor=white&labelColor=8E2DE2)
+  ![Mongoose](https://img.shields.io/badge/-Mongoose-grey?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=8E2DE2)
+  ![gRPC](https://img.shields.io/badge/-gRPC-grey?style=for-the-badge&logo=trpc&logoColor=white&labelColor=8E2DE2)
+  <br />
+  ![Redis](https://img.shields.io/badge/-Redis-grey?style=for-the-badge&logo=redis&logoColor=white&labelColor=8E2DE2)
+  ![Kafka](https://img.shields.io/badge/-Kafka-grey?style=for-the-badge&logo=apache-kafka&logoColor=white&labelColor=8E2DE2)
+  ![Java](https://img.shields.io/badge/-Java-grey?style=for-the-badge&logo=spring&logoColor=white&labelColor=8E2DE2)
+  ![C#](https://img.shields.io/badge/-C%23-grey?style=for-the-badge&logo=sharp&logoColor=white&labelColor=8E2DE2)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+- 🛢 &nbsp; **Databases** <br />
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-grey?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=8E2DE2)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-grey?style=for-the-badge&logo=PostgreSQL&logoColor=white&labelColor=8E2DE2)
+  ![MySQL](https://img.shields.io/badge/-MySQL-grey?style=for-the-badge&logo=mysql&logoColor=white&labelColor=8E2DE2)
+  ![Neo4j](https://img.shields.io/badge/-Neo4j-grey?style=for-the-badge&logo=neo4j&logoColor=white&labelColor=8E2DE2)
+  ![RDF](https://img.shields.io/badge/-RDF/S-grey?style=for-the-badge&logo=semantic-web&logoColor=white&labelColor=8E2DE2)
 
+- 🔧 &nbsp; **Tools & DevOps** <br />
+  ![NX](https://img.shields.io/badge/-NX-grey?style=for-the-badge&logo=nx&logoColor=white&labelColor=8E2DE2)
+  ![Git](https://img.shields.io/badge/-Git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-grey?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=8E2DE2)
+  ![PhotoShop](https://img.shields.io/badge/-Photoshop-grey?style=for-the-badge&logo=adobe&logoColor=white&labelColor=8E2DE2)
+  ![XD](https://img.shields.io/badge/-Adobe%20XD-grey?style=for-the-badge&logo=adobe&logoColor=white&labelColor=8E2DE2)
+  <br />
+  ![Docker](https://img.shields.io/badge/-Docker-grey?style=for-the-badge&logo=docker&logoColor=white&labelColor=8E2DE2)
+  ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-grey?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=8E2DE2)
+  ![Netlify](https://img.shields.io/badge/-Netlify-grey?style=for-the-badge&logo=netlify&logoColor=white&labelColor=8E2DE2)
+  ![Heroku](https://img.shields.io/badge/-Heroku-grey?style=for-the-badge&logo=heroku&logoColor=white&labelColor=8E2DE2)
+
+## 📫 Let's Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/anmo1ll/)
+- [X](https://x.com/nikosanif)
+
+_"Code is like humor. When you have to explain it, it’s bad."_ 😄
