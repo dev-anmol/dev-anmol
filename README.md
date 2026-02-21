@@ -18,7 +18,6 @@
 - 🌐 &nbsp; **Frontend** <br />
   ![Angular](https://img.shields.io/badge/-Angular-grey?style=for-the-badge&logo=angular&logoColor=white&labelColor=8E2DE2)
   ![NgRx](https://img.shields.io/badge/-NgRx-grey?style=for-the-badge&logo=ngrx&logoColor=white&labelColor=8E2DE2)
-  ![Nuxt.js](https://img.shields.io/badge/-Nuxt-grey?style=for-the-badge&logo=nuxt&logoColor=white&labelColor=8E2DE2)
   ![React](https://img.shields.io/badge/-React-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=8E2DE2)
   <br />
   ![Material Design](https://img.shields.io/badge/-Material%20Design-grey?style=for-the-badge&logo=material-design&logoColor=white&labelColor=8E2DE2)
@@ -29,7 +28,6 @@
   ![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-grey?style=for-the-badge&logo=socket.io&logoColor=white&labelColor=8E2DE2)
   ![Web Sockets](https://img.shields.io/badge/-Web%20Sockets-grey?style=for-the-badge&logo=socket.io&logoColor=white&labelColor=8E2DE2)
   ![GraphQL](https://img.shields.io/badge/-GraphQL-grey?style=for-the-badge&logo=graphql&logoColor=white&labelColor=8E2DE2)
-  ![tRPC](https://img.shields.io/badge/-tRPC-grey?style=for-the-badge&logo=trpc&logoColor=white&labelColor=8E2DE2)
 
 - 💻 &nbsp; **Backend** <br />
   ![Typescript](https://img.shields.io/badge/-Typescript-grey?style=for-the-badge&logo=typescript&logoColor=white&labelColor=8E2DE2)
@@ -40,7 +38,6 @@
   ![Express](https://img.shields.io/badge/-Express-grey?style=for-the-badge&logo=express&logoColor=white&labelColor=8E2DE2)
   ![TypeORM](https://img.shields.io/badge/-TypeORM-grey?style=for-the-badge&logo=typeorm&logoColor=white&labelColor=8E2DE2)
   ![Mongoose](https://img.shields.io/badge/-Mongoose-grey?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=8E2DE2)
-  ![gRPC](https://img.shields.io/badge/-gRPC-grey?style=for-the-badge&logo=trpc&logoColor=white&labelColor=8E2DE2)
   <br />
   ![Redis](https://img.shields.io/badge/-Redis-grey?style=for-the-badge&logo=redis&logoColor=white&labelColor=8E2DE2)
   ![Kafka](https://img.shields.io/badge/-Kafka-grey?style=for-the-badge&logo=apache-kafka&logoColor=white&labelColor=8E2DE2)
@@ -52,7 +49,6 @@
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-grey?style=for-the-badge&logo=PostgreSQL&logoColor=white&labelColor=8E2DE2)
   ![MySQL](https://img.shields.io/badge/-MySQL-grey?style=for-the-badge&logo=mysql&logoColor=white&labelColor=8E2DE2)
   ![Neo4j](https://img.shields.io/badge/-Neo4j-grey?style=for-the-badge&logo=neo4j&logoColor=white&labelColor=8E2DE2)
-  ![RDF](https://img.shields.io/badge/-RDF/S-grey?style=for-the-badge&logo=semantic-web&logoColor=white&labelColor=8E2DE2)
 
 - 🔧 &nbsp; **Tools & DevOps** <br />
   ![NX](https://img.shields.io/badge/-NX-grey?style=for-the-badge&logo=nx&logoColor=white&labelColor=8E2DE2)
@@ -62,7 +58,6 @@
   ![XD](https://img.shields.io/badge/-Adobe%20XD-grey?style=for-the-badge&logo=adobe&logoColor=white&labelColor=8E2DE2)
   <br />
   ![Docker](https://img.shields.io/badge/-Docker-grey?style=for-the-badge&logo=docker&logoColor=white&labelColor=8E2DE2)
-  ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-grey?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=8E2DE2)
   ![Netlify](https://img.shields.io/badge/-Netlify-grey?style=for-the-badge&logo=netlify&logoColor=white&labelColor=8E2DE2)
   ![Heroku](https://img.shields.io/badge/-Heroku-grey?style=for-the-badge&logo=heroku&logoColor=white&labelColor=8E2DE2)
 
