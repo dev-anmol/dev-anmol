@@ -65,5 +65,3 @@
 
 - [LinkedIn](https://www.linkedin.com/in/anmo1ll/)
 - [X](https://x.com/anmo1ll)
-
-_"Code is like humor. When you have to explain it, it’s bad."_ 😄
